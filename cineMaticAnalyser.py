@@ -2,7 +2,6 @@ import os
 import sys
 import threading
 import queue
-from dataclasses import dataclass
 from typing import Dict, List, Optional, Tuple
 
 import tkinter as tk
@@ -288,8 +287,8 @@ class ImageCacheLoader:
         self.theme = theme
         # Fallbacks from local workspace
         self.fallback_paths = [
-            os.path.join(self._workspace_dir(), "img1.jpg"),
-            os.path.join(self._workspace_dir(), "img2.jpg"),
+            os.path.join(self._workspace_dir(), "INF.png"),
+            os.path.join(self._workspace_dir(), "404.webp"),
         ]
 
     def _workspace_dir(self) -> str:
@@ -757,7 +756,7 @@ class DashboardFrame(ttk.Frame):
         def on_title_focus_in(event):
             if self.title_entry.get() == "Search by movie title...":
                 self.title_entry.delete(0, tk.END)
-                self.title_entry.configure(foreground="black")
+                self.title_entry.configure(foreground="white")
         
         def on_title_focus_out(event):
             if not self.title_entry.get():
