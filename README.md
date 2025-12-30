@@ -39,25 +39,25 @@ This project addresses the challenge of analyzing complex movie datasets by prov
 <div align="center">
 
 ### 🏠 1. Application Landing Page
-<img src="screenshots/Screenshot%202025-05-28%20003415.png" alt="Application Landing Page" height="300" style="border-radius: 10px;"/>
+<img src="screenshots/Screenshot 2025-12-30 135208.png" alt="Application Landing Page" height="300" style="border-radius: 10px;"/>
 
 ### 📊 2. Dashboard with Movie Cards
-<img src="screenshots/Screenshot%202025-05-28%20003453.png" alt="Dashboard with Movie Cards" height="300" style="border-radius: 10px;"/>
+<img src="screenshots/1.jpeg" alt="Dashboard with Movie Cards" height="300" style="border-radius: 10px;"/>
 
 ### 🎬 3. Movie Details Modal
-<img src="screenshots/Screenshot%202025-05-28%20003542.png" alt="Movie Details Modal" height="300" style="border-radius: 10px;"/>
+<img src="screenshots/5.jpeg" alt="Movie Details Modal" height="300" style="border-radius: 10px;"/>
 
 ### 📈 4. Year-wise Rating Trends
-<img src="screenshots/Screenshot%202025-05-28%20003658.png" alt="Year-wise Rating Trends" height="300" style="border-radius: 10px;"/>
+<img src="screenshots/2.jpeg" alt="Year-wise Rating Trends" height="300" style="border-radius: 10px;"/>
 
 ### 🧾 5. Genre-wise Average Ratings
-<img src="screenshots/Screenshot%202025-05-28%20003716.png" alt="Genre-wise Average Ratings" height="300" style="border-radius: 10px;"/>
+<img src="screenshots/3.jpeg" alt="Genre-wise Average Ratings" height="300" style="border-radius: 10px;"/>
 
 ### 🏆 6. Top 10 Movies Analysis
-<img src="screenshots/Screenshot%202025-05-28%20003831.png" alt="Top 10 Movies Analysis" height="300" style="border-radius: 10px;"/>
+<img src="screenshots/4.jpeg" alt="Top 10 Movies Analysis" height="300" style="border-radius: 10px;"/>
 
 ### 📤 7. Export Functionality
-<img src="screenshots/Screenshot%202025-05-28%20010758.png" alt="Export Functionality" height="300" style="border-radius: 10px;"/>
+<img src="screenshots/6.jpeg" alt="Export Functionality" height="300" style="border-radius: 10px;"/>
 
 </div>
 
